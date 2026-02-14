@@ -1,0 +1,7 @@
+{
+  "name": "PointShop Elite",
+  "description": "High-end e-commerce platform built with Next.js 15, React 19, Zustand 5, and React Query 5, featuring a sophisticated points-based digital economy powered by Firebase Firestore, Auth, and Cloud Functions.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
